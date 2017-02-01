@@ -1,0 +1,10 @@
+name: IconicInfo
+version: 4.2
+main: com.darignio.plugin.Main
+author: DaRignio/IconicNet
+
+commands:
+  pinfo:
+    description: Shows player info!
+  pinfo-reload:
+    description: Reloads the plugin!
